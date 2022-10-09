@@ -7,6 +7,8 @@ export default function Web() {
       <Button />
       1234
       567
+      1234
+      567
       123
       123
       123
