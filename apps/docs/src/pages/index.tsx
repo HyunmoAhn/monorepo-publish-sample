@@ -5,6 +5,7 @@ export default function Docs() {
     <div>
       <h1>my 123Documentation123</h1>
       <Button />
+      123
     </div>
   );
 }
