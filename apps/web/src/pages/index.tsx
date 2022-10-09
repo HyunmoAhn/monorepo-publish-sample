@@ -6,6 +6,7 @@ export default function Web() {
       <h1>Web</h1>
       <Button />
       1234
+      567
     </div>
   );
 }
