@@ -19,6 +19,7 @@
     "@commitlint/config-conventional": "^15.0.0",
     "eslint": "^8.4.1",
     "husky": "^7.0.4",
+    "@changesets/cli": "^2.25.0",
     "prettier": "^2.5.1",
     "turbo": "latest"
   }
